@@ -2,7 +2,7 @@
 - Machine Learning, Deep Learning.
 - Computer Vision.
 - Game Client Programming.<img src="https://img.shields.io/badge/Unity-FFFFFF?
-          style=plastic,
+          style=flat,
           &logo=Unity,
           &logoColor=white"/>
 
