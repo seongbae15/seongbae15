@@ -1,7 +1,7 @@
 ### 🌱 I’m currently learning ...
-1. Machine Learning, Deep Learning.
-2. Computer Vision.
-3. Game Programming.
+- Machine Learning, Deep Learning.
+- Computer Vision.
+- Game Programming.
 <!-- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
  -->
 ### 🔭 Interest
