@@ -1,4 +1,15 @@
-### Hi there 👋
+### 🌱 I’m currently learning ...
+- Machine Learning, Deep Learning.
+- Computer Vision.
+- Game Client Programming.<img src="https://img.shields.io/badge/Unity-FFFFFF?
+          style=plastic,
+          &logo=Unity,
+          &logoColor=white"/>
+
+### 🔭 Inter
+
+### 📫 Contact
+- 
 
 <!--
 **seongbae15/seongbae15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
