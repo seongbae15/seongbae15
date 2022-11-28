@@ -2,7 +2,7 @@
 - Machine Learning, Deep Learning.
 - Computer Vision.
 - Game Programming.
-  - <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 
 ### 🔭 Interest
 - Reinforcement Learning
