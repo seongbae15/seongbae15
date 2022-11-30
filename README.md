@@ -6,7 +6,7 @@
  -->
 ### 🔭 Interest
 - Reinforcement Learning
-- 3D Vision
+- Computer Vision
 
 ### 📫 Contact
 - pseongbae@gmail.com
