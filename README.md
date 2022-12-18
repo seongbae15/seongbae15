@@ -12,7 +12,7 @@
 - pseongbae@gmail.com
 
 ### 💻 My Works (My Side Project)
-- <a href="https://raspy-pamphlet-2f2.notion.site/646e993385f9472abbde3493f8bf79ac">Notion Link</a>
+- <a href="https://raspy-pamphlet-2f2.notion.site/646e993385f9472abbde3493f8bf79ac" target="_blank">Notion Link</a>
 
 <!--
 **seongbae15/seongbae15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
