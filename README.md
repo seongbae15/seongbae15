@@ -1,12 +1,16 @@
-### 🌱 I’m currently learning ...
-- Machine Learning, Deep Learning for Computer Vision.
+## 🔭 I’m currently working on ...
+- [AIPARK](https://www.aipark.ai/)
 
-### 🔭 Interest
-- Computer Vision
-- GAN
-- Reinforcement Learning
 
-### 📫 Contact
+## 🌱 I’m currently learning ...
+- AI
+  - Computer Vision
+  - Gen AI
+  - Reinforcement Learning
+- Other Dev
+  - Web, Game, etc...
+
+## 📫 Contact
 - pseongbae@gmail.com
 
 <!--
