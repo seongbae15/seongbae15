@@ -1,7 +1,3 @@
-## 🔭 I’m currently working on ...
-- [AIPARK](https://www.aipark.ai/)
-
-
 ## 🌱 I’m currently learning ...
 - AI
   - Computer Vision
