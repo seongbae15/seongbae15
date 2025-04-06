@@ -1,13 +1,16 @@
-## 🌱 I’m currently learning ...
-- AI
-  - Computer Vision
-  - Gen AI
-  - Reinforcement Learning
-- Other Dev
-  - Web, Game, etc...
+# 👋 Hi! I'm Seongbae Park (just call me Seongbae), an AI Engineer passionate about Computer Vision.
 
-## 📫 Contact
-- pseongbae@gmail.com
+## 💡 Interests
+- 🧠 Artificial Intelligence & Computer Vision  
+- 🎮 Game Development & Interactive Media  
+
+## 🔭 Currently...
+I'm actively seeking new opportunities where I can apply my skills in AI and computer vision.  
+Open to full-time roles, freelance projects, or exciting research!
+
+## 📫 Contact Me
+- 📧 Email: pseongbae@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/seongbae15
 
 <!--
 **seongbae15/seongbae15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
