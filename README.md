@@ -8,6 +8,15 @@
 I'm actively seeking new opportunities where I can apply my skills in AI and computer vision.  
 Open to full-time roles, freelance projects, or exciting research!
 
+## 🎯 What I Want to Build
+I'm currently exploring ideas at the intersection of Computer Vision and interactive experiences.
+
+- 🏋️‍♂️ **Workout Movement Analysis Tool**  
+  A system that helps users improve workout performance through pose estimation and camera-based feedback.
+
+- 📱 **AR Mobile Game**  
+  A mobile game that blends augmented reality with real-world interaction.
+
 ## 📫 Contact Me
 - 📧 Email: pseongbae@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/seongbae15
