@@ -4,7 +4,6 @@ Hi! I'm Seongbae Park.
 
 ## Contact Me
 - Email: pseongbae@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/seongbae15
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbae15)]()
 
