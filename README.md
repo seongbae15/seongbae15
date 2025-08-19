@@ -1,6 +1,7 @@
 Hi! I'm Seongbae Park.
 - AI engineer (Main: **Generative AI**, **Computer vision**.)
-- And also interested in **Reinforcement Learning**.
+- interested in **Reinforcement Learning**.
+- And interested in **Various Development Fields**
 
 ## Contact Me
 - Email: pseongbae@gmail.com  
