@@ -6,8 +6,6 @@ Hi! I'm Seongbae Park.
 ## Contact Me
 - Email: pseongbae@gmail.com  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongbae15)]()
-
 <!--
 **seongbae15/seongbae15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
